@@ -1,0 +1,22 @@
+.jumbotron {
+    background-color: white;
+    padding-top: 2rem;
+  }
+  .col{
+    padding-bottom: 30px;
+  }
+#container-about{
+    background-color:#e2edff ;
+}
+#container-project{
+  background-color: white;
+}
+.card {
+  box-shadow: 0px 4px 8px rgba(0, 0, 255, 0.2);
+  transition: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0px 8px 16px rgba(0, 0, 255, 0.2);
+  transform: scale(1.1); /* Mengatur zoom gambar saat hover */
+}
